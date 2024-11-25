@@ -1,6 +1,6 @@
 List of my custom QMK keyboards with 3d print files, circuit diagrams & firmware.
 
-1. **3by2_rotary** (Full credit to [Jan Lunge](https://github.com/JanLunge/keyboards/tree/main/w3by2-rotary))\
+1. **3by2_rotary** (Full credit to [Jan Lunge](https://github.com/JanLunge/keyboards/tree/main/w3by2-rotary))  
 
    The firmware (1) has been built by me to support :
      1. Dynamic layer indicators
